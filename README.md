@@ -1,2 +1,0 @@
-# BliparMarkers
-blipparTestForArMarkers
